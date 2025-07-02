@@ -1,12 +1,11 @@
-import React from 'react';
+// /pages/gallery.tsx or wherever you're routing
+import Gallery from '../components/PhotoGallery';
 
-const Gallery: React.FC = () => {
+export default function GalleryPage() {
   return (
-    <div className="max-w-2xl mx-auto">
-      <h1 className="text-4xl font-bold text-gray-900 mb-4">Gallery</h1>
-      <p className="text-lg text-gray-600">Welcome to the Gallery page!</p>
+    <div>
+      <h1 className="text-2xl font-bold p-4">Home/Test Gallery</h1>
+      <Gallery folder="Test" />
     </div>
   );
-};
-
-export default Gallery; 
+}

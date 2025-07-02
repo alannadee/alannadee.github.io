@@ -26,7 +26,7 @@ Good question.
 
 Making a whole website in HTML and CSS would most definitely have taken me a **lot** less time, and I probably also would have enjoyed it more. But that would have been staying in my comfort zone, which, in my mind, completely absolutely defeats the purpose of doing a personal project.
 
-So I've decided to throw myself in the deep end, and make a website on React and TypeScript, with the help of Tailwind (which is getting a lot of getting used to). 
+So I've decided to throw myself in the deep end, and make a website on React.js, Next.js and TypeScript, with the help of Tailwind (which is getting a lot of getting used to). 
 
 The negative experience I have in the likes of React and JavaScript result in whatever a mess this site is. My friends probably have a lot to say about what I've done, and how many bad decisions I've made during the process - but the important thing is *something* made it out of VSCode, and hopefully I'll be able to go back and improve on the little things later (structure, hardcoding, efficiency... there's a LOT of places I don't know what I'm doing and I BEG you not to look at my GitHub)
 
@@ -41,12 +41,20 @@ one of my primary flaws and weaknesses is a tendency to jump a little TOO far in
 - music (what i'm listening to, or rain sounds like imissmycafe - maybe put a little study with me section?) - last.fm api to see what i'm listening to
 - switch deployment to vercel
 - pop a digital version of my CV on here
-- and of course, **THE SECRET PROJECT** (not to be announced in case it absolutely flops)
 - some type of music player that is continuous during page switching for the website vibes :p
+- separate header and footer into components. app.tsx is getting way too cluttered and i need to learn how to use components anyway
+- LIGHT AND DARK MODE BUT THE SWITCHER IS ONE OF THOSE OLD TIMEY PULLING LIGHT SWITCHES
+- gallery page has tabs which swtich depending on the type of photo 
+- shift to payload? i want to be able to easily edit my photos and have them as a part of my backend rather than just throwing all my photography into the public folder lol
+- annotations and notes that appear when you hover over certain elements
+- a little door on the footer that takes you to the arcade
+- counter of number of easter eggs found
+- MAKE IT DYNAMIC BC I CANNOT BE BOTHERED DOING IT WHILE MAKING DRAFTS :')
 
 
 ## and, as a bonus: crashout log
 This is a tracker of all the times I crashed out, and what I crashed out over. It hasn't been easy. I wish I was more of a natural a this. But I hope to be proud of my grit anyhow. 
 
 - 22/06/2025: could NOT get that home page swipy transparency thing working. i hate hate hate hate javascript. ended up hardcoding it (its one gradient div stacked on top of a solid one). when I get more experience this will be the first thing I go back to recode *sigh* 
-
+- 23/06/2025: i highkey do NOT know what i am doing and nothing has changed on this site in the last 2 hours i've been staring at it. may God and my attention span help me. 
+- 26/06/2025: 

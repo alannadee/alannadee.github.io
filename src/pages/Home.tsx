@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import MasonryGallery from '../components/PhotoGallery';
+import MasonryGallery from '../components/MasonryGallery';
 import MarkdownWrapper from '../components/MarkdownWrapper';
 
 const homeImages = [
